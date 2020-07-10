@@ -1,6 +1,6 @@
 #### Hey there 👋. Welcome to my GitHub profile!
 
-**About me:** I am Sombuddha Chakravarty, aka Sammy! I am a final year undergrad student from **BITS Pilani**. I a software developer and an IoT security researcher. I also write blogs on technical and political topics. I am also a [Google Certified Android Developer](https://s3.amazonaws.com/accredible_api_mails/email/11285890.png?1520252447).
+**About me:** I am Sombuddha Chakravarty, aka Sammy! I am a final year undergrad student from **BITS Pilani**. I am a software developer and an IoT security researcher. I also write blogs on technical and political topics. I am also a [Google Certified Android Developer](https://s3.amazonaws.com/accredible_api_mails/email/11285890.png?1520252447).
 
 - **Open source:** I successfully completed my **Google Summer of Code program with AnitaB.org** in 2018 and currently I am a mentor for the project [Portal](https://github.com/anitab-org/portal)
 - **Internships:** I have interned as a software developer at **Publicis Sapient** where I worked on a [Mututal Fund Asset Trading Platform](https://github.com/sammy1997/MutualFundAssetTradingPlatform) and also at the **West Bengal State Data Center**.
